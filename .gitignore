@@ -1,0 +1,4 @@
+dashvenv
+*.pyc
+.DS_Store
+.env
